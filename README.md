@@ -20,6 +20,17 @@ A simulation-based accident and impact analysis of the 1984 Bhopal Gas Tragedy u
 - Matplotlib
 - Google Colab
 
+## Simulation Outputs
+
+### MIC Gas Dispersion Model
+![MIC Dispersion](images/mic_gas_dispersion_model.png)
+
+### Thermal Runaway Simulation
+![Thermal Runaway](images/thermal_runaway_simulation.png)
+
+### Emergency Response Analysis
+![Emergency Response](images/emergency_response_analysis.png)
+
 ## Key Insights
 - Lethal MIC concentration observed within ~2 km radius
 - Thermal runaway caused rapid pressure rise
