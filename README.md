@@ -14,6 +14,16 @@ A simulation-based accident and impact analysis of the 1984 Bhopal Gas Tragedy u
 - Thermal Reaction Model
 - Exposure & Impact Analysis
 
+  
+## Model Assumptions
+
+- Constant wind speed assumed
+- Flat terrain considered
+- Simulations represent trend-based analysis, not exact forensic replication
+- Population values normalized for evacuation analysis
+- Simplified Gaussian plume assumptions applied
+
+  
 ## Technologies Used
 - Python
 - NumPy
