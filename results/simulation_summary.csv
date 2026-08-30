@@ -1,0 +1,13 @@
+metric,value
+MIC Released (kg),40000.0
+Release Duration (min),60.0
+Wind Speed (m/s),1.5
+Population Simulated,1000.0
+Population with Exposure,964.0
+Exposure Percentage,96.39999999999999
+Average Exposure Dose,0.00032882691833892953
+Maximum Exposure Dose,0.035991032960821005
+Best Alarm Delay (min),0.0
+Worst Alarm Delay (min),40.0
+Exposure Increase Best to Worst (%),680.8854949192847
+Additional High/Critical Risk Population,552.0
